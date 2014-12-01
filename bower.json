@@ -1,0 +1,15 @@
+{
+    "name": "angular-ui-validate",
+    "version": "0.1.0",
+    "main": "ui-validate.js",
+    "license": "MIT",
+    "homepage": "https://github.com/leadstec/angular-ui-validate",
+    "ignore": [
+        "src",
+        "example"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7",
+        "angular": ">=1.2.0"
+    }
+}
